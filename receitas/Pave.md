@@ -1,8 +1,8 @@
-# Pavê
+# Pavê :cookie:
 
 ## Ingredientes
 
-- 00ml de leite (para o creme)
+- 200ml de leite (para o creme)
 - 1 colher (sopa) de Maizena (amido de milho)
 - 1 lata de leite condensado
 - 1 gema
